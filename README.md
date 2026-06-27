@@ -1,4 +1,4 @@
-Portfolio Vinicius Ramos
+# Portfolio Vinicius Ramos
 
 Sobre o Projeto
 
@@ -24,15 +24,8 @@ Funcionalidades
 - Design responsivo para diferentes dispositivos
 - Navegacao simples e intuitiva
 
-Como rodar localmente
-
-1. Faca o download ou clone este repositorio em seu computador.
-2. Abra a pasta do projeto.
-3. Localize o arquivo index.html.
-4. Abra o arquivo index.html diretamente em seu navegador de preferencia.
-
 Pronto! O portfolio sera exibido localmente no seu navegador.
 
 Creditos
 
-Desenvolvido por Isaac Ramos.# Portfolio-Vinicius-Ramos
+Desenvolvido por Isaac Ramos.
